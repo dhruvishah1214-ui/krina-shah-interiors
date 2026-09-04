@@ -2,7 +2,7 @@
 
 import React, { useState } from "react";
 import { SITE_CONFIG } from "@/data/siteConfig";
-import { CheckCircle2, Clock, Sparkles, Hammer, MessageCircle, ArrowRight, Eye } from "lucide-react";
+import { CheckCircle2, Clock, MessageCircle, ArrowRight, Eye } from "lucide-react";
 
 export default function OngoingProject() {
   const { flagshipProject } = SITE_CONFIG;

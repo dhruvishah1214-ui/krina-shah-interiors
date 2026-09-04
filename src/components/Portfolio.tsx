@@ -2,7 +2,7 @@
 
 import React, { useState } from "react";
 import { SITE_CONFIG, Project } from "@/data/siteConfig";
-import { X, Sparkles, MapPin, Maximize2, MessageCircle, ArrowRight } from "lucide-react";
+import { X, Sparkles, MapPin, Maximize2, MessageCircle } from "lucide-react";
 
 export default function Portfolio() {
   const { portfolio, contact } = SITE_CONFIG;

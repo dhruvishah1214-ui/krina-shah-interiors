@@ -2,7 +2,7 @@
 
 import React from "react";
 import { SITE_CONFIG } from "@/data/siteConfig";
-import { MessageCircle, ArrowUp, Sparkles, Heart } from "lucide-react";
+import { MessageCircle, ArrowUp } from "lucide-react";
 import { InstagramIcon, LinkedinIcon } from "./Icons";
 
 export default function Footer() {

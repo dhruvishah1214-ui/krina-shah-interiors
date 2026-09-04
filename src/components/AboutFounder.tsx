@@ -2,7 +2,7 @@
 
 import React from "react";
 import { SITE_CONFIG } from "@/data/siteConfig";
-import { MessageCircle, Sparkles, Heart } from "lucide-react";
+import { MessageCircle, Sparkles } from "lucide-react";
 import { InstagramIcon } from "./Icons";
 
 export default function AboutFounder() {

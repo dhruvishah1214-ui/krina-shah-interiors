@@ -2,7 +2,7 @@
 
 import React from "react";
 import { SITE_CONFIG } from "@/data/siteConfig";
-import { Sparkles, ArrowRight, MessageCircle, Compass, HardHat } from "lucide-react";
+import { Sparkles, ArrowRight, MessageCircle, HardHat } from "lucide-react";
 
 export default function Hero() {
   return (

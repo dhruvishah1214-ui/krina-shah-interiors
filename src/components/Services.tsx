@@ -2,7 +2,7 @@
 
 import React from "react";
 import { SITE_CONFIG, ServiceItem } from "@/data/siteConfig";
-import { Home, Sparkles, Layers, Palette, CheckCircle, ArrowRight, MessageCircle } from "lucide-react";
+import { Home, Sparkles, Layers, Palette, CheckCircle, ArrowRight } from "lucide-react";
 
 export default function Services() {
   const { services, contact } = SITE_CONFIG;

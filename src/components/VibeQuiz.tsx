@@ -3,7 +3,7 @@
 import React, { useState } from "react";
 import { SITE_CONFIG } from "@/data/siteConfig";
 import confetti from "canvas-confetti";
-import { Sparkles, MessageCircle, RotateCcw, ArrowRight, Check } from "lucide-react";
+import { Sparkles, MessageCircle, RotateCcw, ArrowRight } from "lucide-react";
 
 export default function VibeQuiz() {
   const { vibeQuiz, contact } = SITE_CONFIG;

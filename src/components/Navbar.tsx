@@ -2,7 +2,7 @@
 
 import React, { useState, useEffect } from "react";
 import { SITE_CONFIG } from "@/data/siteConfig";
-import { MessageCircle, Menu, X, Sparkles, ArrowUpRight } from "lucide-react";
+import { MessageCircle, Menu, X, ArrowUpRight } from "lucide-react";
 
 export default function Navbar() {
   const [isScrolled, setIsScrolled] = useState(false);

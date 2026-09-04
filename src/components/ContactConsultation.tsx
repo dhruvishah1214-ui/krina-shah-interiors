@@ -2,7 +2,7 @@
 
 import React, { useState } from "react";
 import { SITE_CONFIG } from "@/data/siteConfig";
-import { MessageCircle, Mail, MapPin, Send, CheckCircle2, Phone } from "lucide-react";
+import { MessageCircle, Mail, MapPin, Send, CheckCircle2 } from "lucide-react";
 import confetti from "canvas-confetti";
 
 export default function ContactConsultation() {
